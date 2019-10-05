@@ -1,2 +1,2 @@
-language: Java 
+language: java 
 script: mvn clean test
